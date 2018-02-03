@@ -65,10 +65,7 @@ article {
     height:480px;
 }
 
-section {
-  
 
-}
 
 aside {
    float: left;
@@ -144,7 +141,7 @@ footer {
 
 .contact_form input, .contact_form textarea {
     border: 1px solid  #aaa;
-    box-shadow: 0px 0px 3px #ccc; 0px 10px 15px #eee inset;
+    box-shadow: 0px 0px 3px #ccc, 0px 10px 15px #eee inset;
     border-radius: 5px;
     padding-right: 30px;
     -moz-transition: padding .2s;
