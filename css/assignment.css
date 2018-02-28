@@ -1,0 +1,60 @@
+nav {
+    float: left;
+    width: 94%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: #333;
+    
+
+}
+
+#image {
+    position: absolute;
+    float:left;
+     
+}
+
+#contactme {
+    float:left;
+    width:100%; 
+}
+
+#intro {
+    float:left;
+    width:100%;
+    
+}
+
+#experience {
+    float:left;
+    width:100%;
+    
+}
+
+#summary {
+    float:left;
+    width:100%;
+    
+}
+
+#skill {
+    float:left;
+    width:100%;
+    
+}
+
+#contactform {
+    float:left;
+    width:100%;
+}
+
+a {
+    color: #FC0;
+    text-decoration: none;
+ }
+ 
+ a:hover {
+     text-decoration: underline;
+ }
+
+ 
